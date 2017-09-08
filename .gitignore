@@ -1,0 +1,5 @@
+.project
+.settings/
+server.log
+node_modules/
+package-lock.json
